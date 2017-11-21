@@ -92,10 +92,10 @@ File -> Import -> Maven -> Existing Maven project
   <tr>
     <td>Dandelion-datatables</td>
     <td>
-      <a href="/src/main/webapp/WEB-INF/jsp/owners/ownersList.jsp">ownersList.jsp</a> 
-      <a href="/src/main/webapp/WEB-INF/jsp/vets/vetList.jsp">vetList.jsp</a> 
-      <a href="/src/main/webapp/WEB-INF/web.xml">web.xml</a> 
-      <a href="/src/main/resources/dandelion/datatables/datatables.properties">datatables.properties</a> 
+      <a href="/src/main/webapp/WEB-INF/jsp/owners/ownersList.jsp">ownersList.jsp</a>
+      <a href="/src/main/webapp/WEB-INF/jsp/vets/vetList.jsp">vetList.jsp</a>
+      <a href="/src/main/webapp/WEB-INF/web.xml">web.xml</a>
+      <a href="/src/main/resources/dandelion/datatables/datatables.properties">datatables.properties</a>
    </td>
   </tr>
   <tr>
@@ -202,6 +202,3 @@ Here is a list of them:
     </td>
   </tr>    
 </table>
-
-
-
