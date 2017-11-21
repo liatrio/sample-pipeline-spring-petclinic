@@ -10,7 +10,7 @@ pipeline {
         }
       }
       steps {
-          sh 'mvn clean install -DskipTests -B'
+          sh 'mvn clean install -B'
       }
     }
     stage('Build container') {
